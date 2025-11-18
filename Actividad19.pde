@@ -1,4 +1,4 @@
-// ACTIVIDAD 19 - PWD 7° 2° B
+// ACTIVIDAD 19 - PWD 7° 2° A
 // Gráficos, Animaciones e Interactividad en Processing
 
 // 🌟 Variables de movimiento
@@ -179,3 +179,4 @@ void keyPressed() {
     velocidadY = random(-5, 5);
   }
 }
+
